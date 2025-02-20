@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\w401\\Desktop\\113_2_C_Sharp\\114_02_20\\HelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD8E27A-B5EC-4A46-ABE1-20BE94A2BCFD}|HelloWorld\\HelloWorld.csproj|c:\\users\\w401\\desktop\\113_2_c_sharp\\114_02_20\\helloworld\\helloworld\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AD8E27A-B5EC-4A46-ABE1-20BE94A2BCFD}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD8E27A-B5EC-4A46-ABE1-20BE94A2BCFD}|HelloWorld\\HelloWorld.csproj|c:\\users\\w401\\desktop\\113_2_c_sharp\\114_02_20\\helloworld\\helloworld\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD8E27A-B5EC-4A46-ABE1-20BE94A2BCFD}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD8E27A-B5EC-4A46-ABE1-20BE94A2BCFD}|HelloWorld\\HelloWorld.csproj|c:\\users\\w401\\desktop\\113_2_c_sharp\\114_02_20\\helloworld\\helloworld\\helloworld.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1AD8E27A-B5EC-4A46-ABE1-20BE94A2BCFD}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\helloworld.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\w401\\Desktop\\113_2_C_Sharp\\114_02_20\\HelloWorld\\HelloWorld\\Form1.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Form1.cs",
+              "ToolTip": "C:\\Users\\w401\\Desktop\\113_2_C_Sharp\\114_02_20\\HelloWorld\\HelloWorld\\Form1.cs",
+              "RelativeToolTip": "HelloWorld\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T03:44:46.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HelloWorld",
+              "DocumentMoniker": "C:\\Users\\w401\\Desktop\\113_2_C_Sharp\\114_02_20\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+              "RelativeDocumentMoniker": "HelloWorld\\HelloWorld.csproj",
+              "ToolTip": "C:\\Users\\w401\\Desktop\\113_2_C_Sharp\\114_02_20\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+              "RelativeToolTip": "HelloWorld\\HelloWorld.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-20T03:38:59.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\w401\\Desktop\\113_2_C_Sharp\\114_02_20\\HelloWorld\\HelloWorld\\Form1.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Form1.cs",
+              "ToolTip": "C:\\Users\\w401\\Desktop\\113_2_C_Sharp\\114_02_20\\HelloWorld\\HelloWorld\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "HelloWorld\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T03:38:49.054Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
