@@ -25,7 +25,8 @@ namespace Program5_14
             int temp; //宣告變數temp，用來存放讀到的資料
             try
             {
-                inputFile = File.OpenText("NUMBERS.txt"); //開啟檔案
+               if(openfile.showDialog == DialogResult.OK){ //當按下開啟檔案對話方塊的開啟按鈕時
+                    inputFile = File.OpenText(openfile.filename); //開啟檔案
                 while (!inputFile.EndOfStream) //當沒有讀到檔案結尾時(代表檔案中還有資料)            
                 {
                     count++; //資料筆數加1
@@ -37,11 +38,18 @@ namespace Program5_14
                 listBox1.Items.Add("總和為 " + sum); //將總和加到listBox1控制項中
                 inputFile.Close(); //關閉檔案
             }
-            catch (Exception ex)
+                else
+            {
+                MessageBox.Show("您按下取消按鈕，程式即將結束");
+                this.Close(); 
+            }
+        } 
+        catch (Exception ex)
             {
                 MessageBox.Show(ex.Message);
-                this.Close();
-            }
+            this.Close();
+
+    }
         }
     }
 }
