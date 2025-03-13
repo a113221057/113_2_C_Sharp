@@ -1,0 +1,7 @@
+C:\Users\w401\Desktop\113_2_C_Sharp\114-03-13\Program6_10 _1\Program6_10\obj\x86\Debug\Program6_10_1.csproj.AssemblyReference.cache
+C:\Users\w401\Desktop\113_2_C_Sharp\114-03-13\Program6_10 _1\Program6_10\obj\x86\Debug\Program6_10.Form1.resources
+C:\Users\w401\Desktop\113_2_C_Sharp\114-03-13\Program6_10 _1\Program6_10\obj\x86\Debug\Program6_10.Properties.Resources.resources
+C:\Users\w401\Desktop\113_2_C_Sharp\114-03-13\Program6_10 _1\Program6_10\obj\x86\Debug\Program6_10_1.csproj.GenerateResource.cache
+C:\Users\w401\Desktop\113_2_C_Sharp\114-03-13\Program6_10 _1\Program6_10\obj\x86\Debug\Program6_10_1.csproj.CoreCompileInputs.cache
+C:\Users\w401\Desktop\113_2_C_Sharp\114-03-13\Program6_10 _1\Program6_10\obj\x86\Debug\Program6_10.exe
+C:\Users\w401\Desktop\113_2_C_Sharp\114-03-13\Program6_10 _1\Program6_10\obj\x86\Debug\Program6_10.pdb
