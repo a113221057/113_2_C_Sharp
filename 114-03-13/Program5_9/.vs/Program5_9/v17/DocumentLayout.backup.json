@@ -25,16 +25,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
@@ -49,9 +41,9 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "E:\\Git Repos\\113_2_C_Sharp_Tutorial\\114_03_13\\Program5_9\\Program5_9\\Form1.cs",
               "RelativeDocumentMoniker": "Program5_9\\Form1.cs",
-              "ToolTip": "E:\\Git Repos\\113_2_C_Sharp_Tutorial\\114_03_13\\Program5_9\\Program5_9\\Form1.cs*",
-              "RelativeToolTip": "Program5_9\\Form1.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ToolTip": "E:\\Git Repos\\113_2_C_Sharp_Tutorial\\114_03_13\\Program5_9\\Program5_9\\Form1.cs",
+              "RelativeToolTip": "Program5_9\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T11:26:35.362Z",
               "EditorCaption": ""
@@ -62,8 +54,8 @@
               "Title": "Form1.cs [\u8A2D\u8A08]",
               "DocumentMoniker": "E:\\Git Repos\\113_2_C_Sharp_Tutorial\\114_03_13\\Program5_9\\Program5_9\\Form1.cs",
               "RelativeDocumentMoniker": "Program5_9\\Form1.cs",
-              "ToolTip": "E:\\Git Repos\\113_2_C_Sharp_Tutorial\\114_03_13\\Program5_9\\Program5_9\\Form1.cs [\u8A2D\u8A08]*",
-              "RelativeToolTip": "Program5_9\\Form1.cs [\u8A2D\u8A08]*",
+              "ToolTip": "E:\\Git Repos\\113_2_C_Sharp_Tutorial\\114_03_13\\Program5_9\\Program5_9\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Program5_9\\Form1.cs [\u8A2D\u8A08]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T11:26:36.206Z",
               "EditorCaption": " [\u8A2D\u8A08]"
@@ -80,8 +72,8 @@
               "Title": "Program5_9",
               "DocumentMoniker": "E:\\Git Repos\\113_2_C_Sharp_Tutorial\\114_03_13\\Program5_9\\Program5_9\\Program5_9.csproj",
               "RelativeDocumentMoniker": "Program5_9\\Program5_9.csproj",
-              "ToolTip": "E:\\Git Repos\\113_2_C_Sharp_Tutorial\\114_03_13\\Program5_9\\Program5_9\\Program5_9.csproj*",
-              "RelativeToolTip": "Program5_9\\Program5_9.csproj*",
+              "ToolTip": "E:\\Git Repos\\113_2_C_Sharp_Tutorial\\114_03_13\\Program5_9\\Program5_9\\Program5_9.csproj",
+              "RelativeToolTip": "Program5_9\\Program5_9.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-03-12T11:28:22.484Z",
               "EditorCaption": ""
