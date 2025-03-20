@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\w401\\Desktop\\113_2_C_Sharp\\114-03-13\\Program6_10 _1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9EDC817-D476-4006-8B36-75A2F80D08C7}|Program6_10\\Program6_10.csproj|c:\\users\\w401\\desktop\\113_2_c_sharp\\114-03-13\\program6_10 _1\\program6_10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9EDC817-D476-4006-8B36-75A2F80D08C7}|Program6_10\\Program6_10.csproj|solutionrelative:program6_10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9EDC817-D476-4006-8B36-75A2F80D08C7}|Program6_10\\Program6_10_1.csproj|c:\\users\\w401\\desktop\\113_2_c_sharp\\114-03-13\\program6_10 _1\\program6_10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EDC817-D476-4006-8B36-75A2F80D08C7}|Program6_10\\Program6_10_1.csproj|solutionrelative:program6_10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F9EDC817-D476-4006-8B36-75A2F80D08C7}|Program6_10\\Program6_10.csproj|C:\\Users\\w401\\Desktop\\113_2_C_Sharp\\114-03-13\\Program6_10 _1\\program6_10\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -18,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 117,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +32,7 @@
               "RelativeDocumentMoniker": "Program6_10\\Form1.cs",
               "ToolTip": "C:\\Users\\w401\\Desktop\\113_2_C_Sharp\\114-03-13\\Program6_10 _1\\Program6_10\\Form1.cs",
               "RelativeToolTip": "Program6_10\\Form1.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAUwEsAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAQwEsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T11:39:11.916Z",
               "EditorCaption": ""
@@ -42,8 +46,7 @@
               "ToolTip": "C:\\Users\\w401\\Desktop\\113_2_C_Sharp\\114-03-13\\Program6_10 _1\\Program6_10\\Form1.cs [\u8A2D\u8A08]",
               "RelativeToolTip": "Program6_10\\Form1.cs [\u8A2D\u8A08]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T11:37:50.517Z",
-              "EditorCaption": " [\u8A2D\u8A08]"
+              "WhenOpened": "2025-03-12T11:37:50.517Z"
             }
           ]
         }
