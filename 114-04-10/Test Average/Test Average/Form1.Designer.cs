@@ -33,8 +33,8 @@
             this.highScoreDescriptionLabel = new System.Windows.Forms.Label();
             this.testScoresListBox = new System.Windows.Forms.ListBox();
             this.testScoresDescriptionLabel = new System.Windows.Forms.Label();
-            this.highScoreLabel = new System.Windows.Forms.Label();
-            this.lowScoreLabel = new System.Windows.Forms.Label();
+            this.highestScoreLabel = new System.Windows.Forms.Label();
+            this.lowestScoreLabel = new System.Windows.Forms.Label();
             this.averageScoreLabel = new System.Windows.Forms.Label();
             this.getScoresButton = new System.Windows.Forms.Button();
             this.exitButton = new System.Windows.Forms.Button();
@@ -86,23 +86,23 @@
             this.testScoresDescriptionLabel.TabIndex = 5;
             this.testScoresDescriptionLabel.Text = "測試分數";
             // 
-            // highScoreLabel
+            // highestScoreLabel
             // 
-            this.highScoreLabel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.highScoreLabel.Location = new System.Drawing.Point(218, 27);
-            this.highScoreLabel.Name = "highScoreLabel";
-            this.highScoreLabel.Size = new System.Drawing.Size(100, 21);
-            this.highScoreLabel.TabIndex = 10;
-            this.highScoreLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.highestScoreLabel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.highestScoreLabel.Location = new System.Drawing.Point(218, 27);
+            this.highestScoreLabel.Name = "highestScoreLabel";
+            this.highestScoreLabel.Size = new System.Drawing.Size(100, 21);
+            this.highestScoreLabel.TabIndex = 10;
+            this.highestScoreLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // lowScoreLabel
+            // lowestScoreLabel
             // 
-            this.lowScoreLabel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lowScoreLabel.Location = new System.Drawing.Point(218, 60);
-            this.lowScoreLabel.Name = "lowScoreLabel";
-            this.lowScoreLabel.Size = new System.Drawing.Size(100, 21);
-            this.lowScoreLabel.TabIndex = 11;
-            this.lowScoreLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.lowestScoreLabel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lowestScoreLabel.Location = new System.Drawing.Point(218, 60);
+            this.lowestScoreLabel.Name = "lowestScoreLabel";
+            this.lowestScoreLabel.Size = new System.Drawing.Size(100, 21);
+            this.lowestScoreLabel.TabIndex = 11;
+            this.lowestScoreLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // averageScoreLabel
             // 
@@ -145,8 +145,8 @@
             this.Controls.Add(this.exitButton);
             this.Controls.Add(this.getScoresButton);
             this.Controls.Add(this.averageScoreLabel);
-            this.Controls.Add(this.lowScoreLabel);
-            this.Controls.Add(this.highScoreLabel);
+            this.Controls.Add(this.lowestScoreLabel);
+            this.Controls.Add(this.highestScoreLabel);
             this.Controls.Add(this.averageScoreDescriptionLabel);
             this.Controls.Add(this.lowScoreDescriptionLabel);
             this.Controls.Add(this.highScoreDescriptionLabel);
@@ -166,8 +166,8 @@
         private System.Windows.Forms.Label highScoreDescriptionLabel;
         private System.Windows.Forms.ListBox testScoresListBox;
         private System.Windows.Forms.Label testScoresDescriptionLabel;
-        private System.Windows.Forms.Label highScoreLabel;
-        private System.Windows.Forms.Label lowScoreLabel;
+        private System.Windows.Forms.Label highestScoreLabel;
+        private System.Windows.Forms.Label lowestScoreLabel;
         private System.Windows.Forms.Label averageScoreLabel;
         private System.Windows.Forms.Button getScoresButton;
         private System.Windows.Forms.Button exitButton;

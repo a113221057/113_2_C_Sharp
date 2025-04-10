@@ -30,8 +30,10 @@ namespace Test_Average
         // Highest 方法接受一個整數陣列參數，並返回該陣列中的最大值。
         private int Highest(int[] scores)
         {
+        
+            
             int highest = scores[0]; // 假設第一個元素為最高分數
-
+            return highest;
         }
 
         // Lowest 方法接受一個整數陣列參數，並返回該陣列中的最小值。
@@ -81,7 +83,7 @@ namespace Test_Average
                     lowestScore = Lowest(testScores);
 
                     // 顯示結果
-                    averageScoreLabel.Text =averageScore.ToString("n1");
+                    averageScoreLabel.Text =averageScore.ToString("F1");
                     highestScoreLabel.Text = highestScore.ToString();
                     lowestScoreLabel.Text = lowestScore.ToString();
                 }
