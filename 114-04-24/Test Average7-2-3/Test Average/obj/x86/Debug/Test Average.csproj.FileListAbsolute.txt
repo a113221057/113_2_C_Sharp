@@ -1,0 +1,61 @@
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 07\Tutorial 7-2\Test Average\Test Average\bin\Debug\Test Average.exe
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 07\Tutorial 7-2\Test Average\Test Average\bin\Debug\Test Average.pdb
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 07\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 07\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test_Average.Form1.resources
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 07\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test_Average.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 07\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 07\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 07\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test Average.exe
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 07\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test Average.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 07\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test Average.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 07\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test Average.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 07\Tutorial 7-2\Test Average\Test Average\bin\Debug\Test Average.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 07\Tutorial 7-2\Test Average\Test Average\bin\Debug\Test Average.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 07\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test_Average.Form1.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 07\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test_Average.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 07\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test Average.csproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test Average.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test Average.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-2\Test Average\Test Average\bin\Debug\Test Average.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-2\Test Average\Test Average\bin\Debug\Test Average.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test_Average.Form1.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test_Average.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test Average.csproj.GenerateResource.Cache
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test Average.exe
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test Average.pdb
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-2\Test Average\Test Average\bin\Debug\Test Average.exe
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-2\Test Average\Test Average\bin\Debug\Test Average.pdb
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test Average.csprojResolveAssemblyReference.cache
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test_Average.Form1.resources
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test_Average.Properties.Resources.resources
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 07\Tutorial 7-2\Test Average\Test Average\obj\x86\Debug\Test Average.csproj.GenerateResource.Cache
+C:\Users\Liang\Desktop\113_2_C_Sharp\114-04-10\Test Average\Test Average\bin\Debug\Test Average.exe.config
+C:\Users\Liang\Desktop\113_2_C_Sharp\114-04-10\Test Average\Test Average\bin\Debug\Test Average.exe
+C:\Users\Liang\Desktop\113_2_C_Sharp\114-04-10\Test Average\Test Average\bin\Debug\Test Average.pdb
+C:\Users\Liang\Desktop\113_2_C_Sharp\114-04-10\Test Average\Test Average\obj\x86\Debug\Test Average.csproj.AssemblyReference.cache
+C:\Users\Liang\Desktop\113_2_C_Sharp\114-04-10\Test Average\Test Average\obj\x86\Debug\Test_Average.Form1.resources
+C:\Users\Liang\Desktop\113_2_C_Sharp\114-04-10\Test Average\Test Average\obj\x86\Debug\Test_Average.Properties.Resources.resources
+C:\Users\Liang\Desktop\113_2_C_Sharp\114-04-10\Test Average\Test Average\obj\x86\Debug\Test Average.csproj.GenerateResource.cache
+C:\Users\Liang\Desktop\113_2_C_Sharp\114-04-10\Test Average\Test Average\obj\x86\Debug\Test Average.csproj.CoreCompileInputs.cache
+C:\Users\Liang\Desktop\113_2_C_Sharp\114-04-10\Test Average\Test Average\obj\x86\Debug\Test Average.exe
+C:\Users\Liang\Desktop\113_2_C_Sharp\114-04-10\Test Average\Test Average\obj\x86\Debug\Test Average.pdb
+C:\Users\w401\Desktop\113_2_C_Sharp\114-04-17\Test Average7-2-2\Test Average\bin\Debug\Test Average.exe.config
+C:\Users\w401\Desktop\113_2_C_Sharp\114-04-17\Test Average7-2-2\Test Average\bin\Debug\Test Average.exe
+C:\Users\w401\Desktop\113_2_C_Sharp\114-04-17\Test Average7-2-2\Test Average\bin\Debug\Test Average.pdb
+C:\Users\w401\Desktop\113_2_C_Sharp\114-04-17\Test Average7-2-2\Test Average\obj\x86\Debug\Test Average.csproj.AssemblyReference.cache
+C:\Users\w401\Desktop\113_2_C_Sharp\114-04-17\Test Average7-2-2\Test Average\obj\x86\Debug\Test_Average.Form1.resources
+C:\Users\w401\Desktop\113_2_C_Sharp\114-04-17\Test Average7-2-2\Test Average\obj\x86\Debug\Test_Average.Properties.Resources.resources
+C:\Users\w401\Desktop\113_2_C_Sharp\114-04-17\Test Average7-2-2\Test Average\obj\x86\Debug\Test Average.csproj.GenerateResource.cache
+C:\Users\w401\Desktop\113_2_C_Sharp\114-04-17\Test Average7-2-2\Test Average\obj\x86\Debug\Test Average.csproj.CoreCompileInputs.cache
+C:\Users\w401\Desktop\113_2_C_Sharp\114-04-17\Test Average7-2-2\Test Average\obj\x86\Debug\Test Average.exe
+C:\Users\w401\Desktop\113_2_C_Sharp\114-04-17\Test Average7-2-2\Test Average\obj\x86\Debug\Test Average.pdb
+C:\Users\w401\Desktop\113_2_C_Sharp\114-04-24\Test Average7-2-2\Test Average\bin\Debug\Test Average.exe.config
+C:\Users\w401\Desktop\113_2_C_Sharp\114-04-24\Test Average7-2-2\Test Average\bin\Debug\Test Average.exe
+C:\Users\w401\Desktop\113_2_C_Sharp\114-04-24\Test Average7-2-2\Test Average\bin\Debug\Test Average.pdb
+C:\Users\w401\Desktop\113_2_C_Sharp\114-04-24\Test Average7-2-2\Test Average\obj\x86\Debug\Test Average.csproj.AssemblyReference.cache
+C:\Users\w401\Desktop\113_2_C_Sharp\114-04-24\Test Average7-2-2\Test Average\obj\x86\Debug\Test_Average.Form1.resources
+C:\Users\w401\Desktop\113_2_C_Sharp\114-04-24\Test Average7-2-2\Test Average\obj\x86\Debug\Test_Average.Properties.Resources.resources
+C:\Users\w401\Desktop\113_2_C_Sharp\114-04-24\Test Average7-2-2\Test Average\obj\x86\Debug\Test Average.csproj.GenerateResource.cache
+C:\Users\w401\Desktop\113_2_C_Sharp\114-04-24\Test Average7-2-2\Test Average\obj\x86\Debug\Test Average.csproj.CoreCompileInputs.cache
+C:\Users\w401\Desktop\113_2_C_Sharp\114-04-24\Test Average7-2-2\Test Average\obj\x86\Debug\Test Average.exe
+C:\Users\w401\Desktop\113_2_C_Sharp\114-04-24\Test Average7-2-2\Test Average\obj\x86\Debug\Test Average.pdb

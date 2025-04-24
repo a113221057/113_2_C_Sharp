@@ -24,22 +24,32 @@ namespace Test_Average
         // Average 方法接受一個整數陣列參數，並返回該陣列中所有值的平均值。
         private double Average(int[] scores)
         {
-            return scores.Average();
+            int total = 0;
+            foreach (int score in scores)
+            {
+                total += score;
+            }
+            return (double)total / scores.Length; // 修正為使用 Length 屬性
         }
 
         // Highest 方法接受一個整數陣列參數，並返回該陣列中的最大值。
         private int Highest(int[] scores)
         {
-        
-            
             int highest = scores[0]; // 假設第一個元素為最高分數
+            for (int i = 1; i < scores.Length; i++)
+            {
+                if (scores[i] > highest)
+                {
+                    highest = scores[i];
+                }
+            }
             return highest;
         }
 
         // Lowest 方法接受一個整數陣列參數，並返回該陣列中的最小值。
         private int Lowest(int[] scores)
         {
-           int lowest = scores[0]; // 假設第一個元素為最低分數
+            int lowest = scores[0]; // 假設第一個元素為最低分數
             for (int i = 1; i < scores.Length; i++)
             {
                 if (scores[i] < lowest)
@@ -52,9 +62,7 @@ namespace Test_Average
 
         private void getScoresButton_Click(object sender, EventArgs e)
         {
-            const int SIZE = 48; // 定義陣列大小為 48
-            int[] testScores = new int[SIZE]; // 初始化整數陣列以存儲測試分數
-            int index = 0; // 初始化索引變數
+            List<int> testScores = new List<int>(); // 使用 List<int> 動態存儲分數
             int highestScore = 0; // 初始化最高分數變數
             int lowestScore = 0; // 初始化最低分數變數
             double averageScore = 0.0; // 初始化平均分數變數
@@ -68,22 +76,33 @@ namespace Test_Average
                     inputFile = File.OpenText(openFile.FileName);
 
                     // 從檔案中讀取分數
-                    while (!inputFile.EndOfStream && index < SIZE)
+                    while (!inputFile.EndOfStream)
                     {
-                        testScores[index] = Convert.ToInt32(inputFile.ReadLine());
-                        index++;
+                        string line = inputFile.ReadLine();
+                        if (int.TryParse(line, out int score)) // 驗證是否為有效整數
+                        {
+                            testScores.Add(score);
+                            testScoresListBox.Items.Add(score); // 將分數添加到 ListBox
+                        }
+                        else
+                        {
+                            MessageBox.Show($"無效的分數: {line}", "錯誤"); // 顯示無效分數訊息
+                        }
                     }
 
                     // 關閉檔案
                     inputFile.Close();
 
+                    // 將 List<int> 轉換為陣列
+                    int[] scoresArray = testScores.ToArray();
+
                     // 計算平均分數、最高分數和最低分數
-                    averageScore = Average(testScores);
-                    highestScore = Highest(testScores);
-                    lowestScore = Lowest(testScores);
+                    averageScore = Average(scoresArray);
+                    highestScore = Highest(scoresArray);
+                    lowestScore = Lowest(scoresArray);
 
                     // 顯示結果
-                    averageScoreLabel.Text =averageScore.ToString("F1");
+                    averageScoreLabel.Text = averageScore.ToString("F1");
                     highestScoreLabel.Text = highestScore.ToString();
                     lowestScoreLabel.Text = lowestScore.ToString();
                 }
