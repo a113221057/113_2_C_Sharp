@@ -1,0 +1,274 @@
+﻿namespace Test_Average
+{
+    partial class Form1
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.averageScoreDescriptionLabel = new System.Windows.Forms.Label();
+            this.lowScoreDescriptionLabel = new System.Windows.Forms.Label();
+            this.highScoreDescriptionLabel = new System.Windows.Forms.Label();
+            this.testScoresListBox = new System.Windows.Forms.ListBox();
+            this.testScoresDescriptionLabel = new System.Windows.Forms.Label();
+            this.highestScoreLabel = new System.Windows.Forms.Label();
+            this.lowestScoreLabel = new System.Windows.Forms.Label();
+            this.averageScoreLabel = new System.Windows.Forms.Label();
+            this.getScoresButton = new System.Windows.Forms.Button();
+            this.exitButton = new System.Windows.Forms.Button();
+            this.openFile = new System.Windows.Forms.OpenFileDialog();
+            this.sortScoresButton = new System.Windows.Forms.Button();
+            this.deleteButton = new System.Windows.Forms.Button();
+            this.SortScoresListBox1 = new System.Windows.Forms.ListBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.buttonInsert = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // averageScoreDescriptionLabel
+            // 
+            this.averageScoreDescriptionLabel.AutoSize = true;
+            this.averageScoreDescriptionLabel.Location = new System.Drawing.Point(136, 98);
+            this.averageScoreDescriptionLabel.Name = "averageScoreDescriptionLabel";
+            this.averageScoreDescriptionLabel.Size = new System.Drawing.Size(53, 12);
+            this.averageScoreDescriptionLabel.TabIndex = 9;
+            this.averageScoreDescriptionLabel.Text = "平均分數";
+            // 
+            // lowScoreDescriptionLabel
+            // 
+            this.lowScoreDescriptionLabel.AutoSize = true;
+            this.lowScoreDescriptionLabel.Location = new System.Drawing.Point(142, 65);
+            this.lowScoreDescriptionLabel.Name = "lowScoreDescriptionLabel";
+            this.lowScoreDescriptionLabel.Size = new System.Drawing.Size(53, 12);
+            this.lowScoreDescriptionLabel.TabIndex = 8;
+            this.lowScoreDescriptionLabel.Text = "最低分數";
+            // 
+            // highScoreDescriptionLabel
+            // 
+            this.highScoreDescriptionLabel.AutoSize = true;
+            this.highScoreDescriptionLabel.Location = new System.Drawing.Point(140, 32);
+            this.highScoreDescriptionLabel.Name = "highScoreDescriptionLabel";
+            this.highScoreDescriptionLabel.Size = new System.Drawing.Size(53, 12);
+            this.highScoreDescriptionLabel.TabIndex = 7;
+            this.highScoreDescriptionLabel.Text = "最高分數";
+            // 
+            // testScoresListBox
+            // 
+            this.testScoresListBox.FormattingEnabled = true;
+            this.testScoresListBox.ItemHeight = 12;
+            this.testScoresListBox.Location = new System.Drawing.Point(12, 27);
+            this.testScoresListBox.Name = "testScoresListBox";
+            this.testScoresListBox.Size = new System.Drawing.Size(120, 88);
+            this.testScoresListBox.TabIndex = 6;
+            // 
+            // testScoresDescriptionLabel
+            // 
+            this.testScoresDescriptionLabel.AutoSize = true;
+            this.testScoresDescriptionLabel.Location = new System.Drawing.Point(12, 12);
+            this.testScoresDescriptionLabel.Name = "testScoresDescriptionLabel";
+            this.testScoresDescriptionLabel.Size = new System.Drawing.Size(53, 12);
+            this.testScoresDescriptionLabel.TabIndex = 5;
+            this.testScoresDescriptionLabel.Text = "測試分數";
+            // 
+            // highestScoreLabel
+            // 
+            this.highestScoreLabel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.highestScoreLabel.Location = new System.Drawing.Point(218, 27);
+            this.highestScoreLabel.Name = "highestScoreLabel";
+            this.highestScoreLabel.Size = new System.Drawing.Size(100, 21);
+            this.highestScoreLabel.TabIndex = 10;
+            this.highestScoreLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // lowestScoreLabel
+            // 
+            this.lowestScoreLabel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.lowestScoreLabel.Location = new System.Drawing.Point(218, 60);
+            this.lowestScoreLabel.Name = "lowestScoreLabel";
+            this.lowestScoreLabel.Size = new System.Drawing.Size(100, 21);
+            this.lowestScoreLabel.TabIndex = 11;
+            this.lowestScoreLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // averageScoreLabel
+            // 
+            this.averageScoreLabel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.averageScoreLabel.Location = new System.Drawing.Point(218, 93);
+            this.averageScoreLabel.Name = "averageScoreLabel";
+            this.averageScoreLabel.Size = new System.Drawing.Size(100, 21);
+            this.averageScoreLabel.TabIndex = 12;
+            this.averageScoreLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // getScoresButton
+            // 
+            this.getScoresButton.Location = new System.Drawing.Point(90, 138);
+            this.getScoresButton.Name = "getScoresButton";
+            this.getScoresButton.Size = new System.Drawing.Size(75, 21);
+            this.getScoresButton.TabIndex = 13;
+            this.getScoresButton.Text = "取得分數";
+            this.getScoresButton.UseVisualStyleBackColor = true;
+            this.getScoresButton.Click += new System.EventHandler(this.getScoresButton_Click);
+            // 
+            // exitButton
+            // 
+            this.exitButton.Location = new System.Drawing.Point(171, 138);
+            this.exitButton.Name = "exitButton";
+            this.exitButton.Size = new System.Drawing.Size(75, 21);
+            this.exitButton.TabIndex = 14;
+            this.exitButton.Text = "Exit";
+            this.exitButton.UseVisualStyleBackColor = true;
+            this.exitButton.Click += new System.EventHandler(this.exitButton_Click);
+            // 
+            // openFile
+            // 
+            this.openFile.FileName = "openFileDialog1";
+            // 
+            // sortScoresButton
+            // 
+            this.sortScoresButton.Location = new System.Drawing.Point(144, 218);
+            this.sortScoresButton.Name = "sortScoresButton";
+            this.sortScoresButton.Size = new System.Drawing.Size(75, 21);
+            this.sortScoresButton.TabIndex = 16;
+            this.sortScoresButton.Text = "排序";
+            this.sortScoresButton.UseVisualStyleBackColor = true;
+            this.sortScoresButton.Click += new System.EventHandler(this.sortScoresButton_Click);
+            // 
+            // deleteButton
+            // 
+            this.deleteButton.Location = new System.Drawing.Point(252, 218);
+            this.deleteButton.Name = "deleteButton";
+            this.deleteButton.Size = new System.Drawing.Size(75, 21);
+            this.deleteButton.TabIndex = 17;
+            this.deleteButton.Text = "刪除";
+            this.deleteButton.UseVisualStyleBackColor = true;
+            this.deleteButton.Click += new System.EventHandler(this.deleteButton_Click);
+            // 
+            // SortScoresListBox1
+            // 
+            this.SortScoresListBox1.FormattingEnabled = true;
+            this.SortScoresListBox1.ItemHeight = 12;
+            this.SortScoresListBox1.Location = new System.Drawing.Point(14, 218);
+            this.SortScoresListBox1.Name = "SortScoresListBox1";
+            this.SortScoresListBox1.Size = new System.Drawing.Size(120, 88);
+            this.SortScoresListBox1.TabIndex = 18;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(151, 294);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(53, 12);
+            this.label1.TabIndex = 21;
+            this.label1.Text = "插入的值";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(259, 294);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(65, 12);
+            this.label2.TabIndex = 22;
+            this.label2.Text = "插入的位置";
+            // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(153, 309);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(100, 22);
+            this.textBox1.TabIndex = 23;
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+            // 
+            // textBox2
+            // 
+            this.textBox2.Location = new System.Drawing.Point(261, 309);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(100, 22);
+            this.textBox2.TabIndex = 24;
+            this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
+            // 
+            // buttonInsert
+            // 
+            this.buttonInsert.Location = new System.Drawing.Point(153, 337);
+            this.buttonInsert.Name = "buttonInsert";
+            this.buttonInsert.Size = new System.Drawing.Size(208, 23);
+            this.buttonInsert.TabIndex = 25;
+            this.buttonInsert.Text = "插入";
+            this.buttonInsert.UseVisualStyleBackColor = true;
+            this.buttonInsert.Click += new System.EventHandler(this.buttonInsert_Click);
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(400, 387);
+            this.Controls.Add(this.buttonInsert);
+            this.Controls.Add(this.textBox2);
+            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.SortScoresListBox1);
+            this.Controls.Add(this.deleteButton);
+            this.Controls.Add(this.sortScoresButton);
+            this.Controls.Add(this.exitButton);
+            this.Controls.Add(this.getScoresButton);
+            this.Controls.Add(this.averageScoreLabel);
+            this.Controls.Add(this.lowestScoreLabel);
+            this.Controls.Add(this.highestScoreLabel);
+            this.Controls.Add(this.averageScoreDescriptionLabel);
+            this.Controls.Add(this.lowScoreDescriptionLabel);
+            this.Controls.Add(this.highScoreDescriptionLabel);
+            this.Controls.Add(this.testScoresListBox);
+            this.Controls.Add(this.testScoresDescriptionLabel);
+            this.Name = "Form1";
+            this.Text = "Test Average";
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Label averageScoreDescriptionLabel;
+        private System.Windows.Forms.Label lowScoreDescriptionLabel;
+        private System.Windows.Forms.Label highScoreDescriptionLabel;
+        private System.Windows.Forms.ListBox testScoresListBox;
+        private System.Windows.Forms.Label testScoresDescriptionLabel;
+        private System.Windows.Forms.Label highestScoreLabel;
+        private System.Windows.Forms.Label lowestScoreLabel;
+        private System.Windows.Forms.Label averageScoreLabel;
+        private System.Windows.Forms.Button getScoresButton;
+        private System.Windows.Forms.Button exitButton;
+        private System.Windows.Forms.OpenFileDialog openFile;
+        private System.Windows.Forms.Button sortScoresButton;
+        private System.Windows.Forms.Button deleteButton;
+        private System.Windows.Forms.ListBox SortScoresListBox1;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.Button buttonInsert;
+    }
+}
+
